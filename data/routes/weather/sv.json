@@ -138,7 +138,7 @@
                         "Type": "PlainTextField"
                       },
                       "RestUrl": {
-                        "Value": "/api/SampleData/WeatherForecasts",
+                        "Value": "/data/weather.json",
                         "Type": "PlainTextField"
                       }
                     },
