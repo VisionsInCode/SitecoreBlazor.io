@@ -19,7 +19,7 @@
               "Name": "navbarHeader",
               "Fields": {
                 "NavHeader": {
-                  "Value": "Sitecore + Blazor 0.5.1",
+                  "Value": "Sitecore + Blazor",
                   "Type": "PlainTextField"
                 }
               },
@@ -92,7 +92,7 @@
             "Type": "ImageField"
           },
           "Title": {
-            "Value": "Sitecore Experience Platform + BLAZOR",
+            "Value": "Sitecore Experience Platform + BLAZOR 0.5.1",
             "Type": "PlainTextField"
           },
           "Text": {
